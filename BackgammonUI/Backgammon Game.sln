@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgammonUI", "BackgammonUI.csproj", "{1769330B-E465-4132-9B86-8B0803DB918B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgammonEngine", "..\BackgammonEngine\BackgammonEngine.csproj", "{D6644811-0916-424C-B180-B8A2EC3429EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1769330B-E465-4132-9B86-8B0803DB918B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1769330B-E465-4132-9B86-8B0803DB918B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1769330B-E465-4132-9B86-8B0803DB918B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1769330B-E465-4132-9B86-8B0803DB918B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6644811-0916-424C-B180-B8A2EC3429EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6644811-0916-424C-B180-B8A2EC3429EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6644811-0916-424C-B180-B8A2EC3429EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6644811-0916-424C-B180-B8A2EC3429EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97DD12CC-39C5-4569-B971-8E8F775A9F04}
+	EndGlobalSection
+EndGlobal

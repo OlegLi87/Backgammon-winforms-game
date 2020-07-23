@@ -1,0 +1,6 @@
+C:\Programming\Final Projects\BackgammonGame\BackgammonEngine\bin\Debug\BackgammonEngine.dll
+C:\Programming\Final Projects\BackgammonGame\BackgammonEngine\bin\Debug\BackgammonEngine.pdb
+C:\Programming\Final Projects\BackgammonGame\BackgammonEngine\obj\Debug\BackgammonEngine.csprojAssemblyReference.cache
+C:\Programming\Final Projects\BackgammonGame\BackgammonEngine\obj\Debug\BackgammonEngine.csproj.CoreCompileInputs.cache
+C:\Programming\Final Projects\BackgammonGame\BackgammonEngine\obj\Debug\BackgammonEngine.dll
+C:\Programming\Final Projects\BackgammonGame\BackgammonEngine\obj\Debug\BackgammonEngine.pdb

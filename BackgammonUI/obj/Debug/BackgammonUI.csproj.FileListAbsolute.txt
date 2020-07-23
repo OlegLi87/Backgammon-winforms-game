@@ -1,0 +1,14 @@
+C:\Programming\Final Projects\BackgammonGame\BackgammonUI\bin\Debug\BackgammonUI.exe.config
+C:\Programming\Final Projects\BackgammonGame\BackgammonUI\bin\Debug\BackgammonUI.exe
+C:\Programming\Final Projects\BackgammonGame\BackgammonUI\bin\Debug\BackgammonUI.pdb
+C:\Programming\Final Projects\BackgammonGame\BackgammonUI\bin\Debug\BackgammonEngine.dll
+C:\Programming\Final Projects\BackgammonGame\BackgammonUI\bin\Debug\BackgammonEngine.pdb
+C:\Programming\Final Projects\BackgammonGame\BackgammonUI\obj\Debug\BackgammonUI.csprojAssemblyReference.cache
+C:\Programming\Final Projects\BackgammonGame\BackgammonUI\obj\Debug\BackgammonUI.Properties.Resources.resources
+C:\Programming\Final Projects\BackgammonGame\BackgammonUI\obj\Debug\BackgammonUI.csproj.GenerateResource.cache
+C:\Programming\Final Projects\BackgammonGame\BackgammonUI\obj\Debug\BackgammonUI.csproj.CoreCompileInputs.cache
+C:\Programming\Final Projects\BackgammonGame\BackgammonUI\obj\Debug\BackgammonUI.csproj.CopyComplete
+C:\Programming\Final Projects\BackgammonGame\BackgammonUI\obj\Debug\BackgammonUI.exe
+C:\Programming\Final Projects\BackgammonGame\BackgammonUI\obj\Debug\BackgammonUI.pdb
+C:\Programming\Final Projects\BackgammonGame\BackgammonUI\obj\Debug\BackgammonUI.BackgammonGameForm.resources
+C:\Programming\Final Projects\BackgammonGame\BackgammonUI\obj\Debug\BackgammonUI.MainMenuForm.resources
